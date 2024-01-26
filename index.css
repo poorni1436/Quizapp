@@ -1,0 +1,28 @@
+.con{
+    background-color:white;
+    color: green;
+    padding: 4px;
+    font-family: monospace;
+   align-items: center;
+   
+}
+
+.foot{
+    background-color:blue;
+    color: red;
+    padding: 2px;
+ 
+}
+.head{
+    background-color:blue;
+    color: red;
+    padding: 4px;
+ 
+}
+.con{
+    background-color:magenta;
+    color: black;
+    padding: 4px;
+    
+ 
+}
